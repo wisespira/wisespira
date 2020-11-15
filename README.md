@@ -6,7 +6,7 @@ Most of whats here is my tests into verious technologies. This includeds, my por
     • email: irawatt@gmail.com
     • linkedin: https://www.linkedin.com/in/ira-watt/
     
-## &#x1f4c8; GitHub Stats
+### GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -15,14 +15,7 @@ Most of whats here is my tests into verious technologies. This includeds, my por
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/wisespira/Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wisespira&repo=Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
-
-<a href="https://github.com/wisespira/Algo-2K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wisespira&repo=Algo-2K&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
 <!--
 **wisespira/wisespira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
