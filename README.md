@@ -6,9 +6,10 @@ Most of whats here is my tests into verious technologies. This includeds, my por
     • email: irawatt@gmail.com
     • linkedin: https://www.linkedin.com/in/ira-watt/
     
-<p>![Ira Watts's github stats](https://github-readme-stats.vercel.app/api?username=wisespira)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=javascript,HTML&langs_count=10)](https://github.com/wisespira/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=javascript,HTML&langs_count=10)](https://github.com/wisespira/github-readme-stats)    
+![Ira Watts's github stats](https://github-readme-stats.vercel.app/api?username=wisespira)
+
+
 <!--
 **wisespira/wisespira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
