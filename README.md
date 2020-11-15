@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Most of whats here is my tests into verious technologies. This includeds, my porfolio (irawatt.co.uk) built in Angular 2 and my dissertation project Algo2k, a PWA (Progressive Web App) built for trading strategy backtesting/validation with a node.js backend.   
+Most of whats here is my testing of verious technologies. This includeds, my porfolio (irawatt.co.uk) built in Angular 2 and my dissertation project Algo2k, a PWA (Progressive Web App) built for trading strategy backtesting/validation with a node.js backend.   
  
 <details>
 <summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
