@@ -5,8 +5,14 @@ Most of whats here is my tests into verious technologies. This includeds, my por
 📫 Feel free to contact me
     • email: irawatt@gmail.com
     • linkedin: https://www.linkedin.com/in/ira-watt/
-    
-### GitHub Stats &#x1f4c8;
+ 
+ 
+<details>
+<summary>### Want to check my GitHub Stats &#x1f4c8;?</summary>
+<br>
+This is how you dropdown.
+</details> 
+
 
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
