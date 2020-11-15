@@ -11,8 +11,7 @@ Most of whats here is my tests into verious technologies. This includeds, my por
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
- 
-[![wisespira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisespira)](https://github.com/wisespira/github-readme-stats)
+
 
 </details> 
 
