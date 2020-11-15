@@ -1,11 +1,6 @@
 ### Hello there 👋
 
 Most of whats here is my tests into verious technologies. This includeds, my porfolio (irawatt.co.uk) built in Angular 2 and my dissertation project Algo2k, a PWA (Progressive Web App) built for trading strategy backtesting/validation with a node.js backend.   
-
-📫 Feel free to contact me
-    • email: irawatt@gmail.com
-    • linkedin: https://www.linkedin.com/in/ira-watt/
- 
  
 <details>
 <summary>Want to check my GitHub Stats dashboard  &#x1f4c8;?</summary>
@@ -17,6 +12,10 @@ Most of whats here is my tests into verious technologies. This includeds, my por
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 </details> 
+
+📫 Feel free to contact me
+    • email: irawatt@gmail.com
+    • linkedin: https://www.linkedin.com/in/ira-watt/
 
 
 <!--
