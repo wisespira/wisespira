@@ -3,7 +3,7 @@
 Most of whats here is my tests into verious technologies. This includeds, my porfolio (irawatt.co.uk) built in Angular 2 and my dissertation project Algo2k, a PWA (Progressive Web App) built for trading strategy backtesting/validation with a node.js backend.   
  
 <details>
-<summary>Click and check my GitHub Stats dashboard  &#x1f4c8;</summary>
+<summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
 <br>
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,javascript,html&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
