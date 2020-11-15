@@ -6,7 +6,7 @@ Most of whats here is my tests into verious technologies. This includeds, my por
     • email: irawatt@gmail.com
     • linkedin: https://www.linkedin.com/in/ira-watt/
     
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=wisespira&show_icons=true" />
+![Ira Watts's github stats](https://github-readme-stats.vercel.app/api?username=wisespira)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&exclude_repo=three.js,ionic" />
 <!--
 **wisespira/wisespira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
