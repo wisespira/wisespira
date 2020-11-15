@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Most of whats here is my testing of verious technologies. This includeds, my porfolio (<a href="https://irawatt.co.uk/" target="_blank">irawatt.co.uk</a>) built in Angular 2 and my dissertation project <a href="https://algo2k-9eddd.web.app" target="_blank">Algo2k</a>, a PWA (Progressive Web App) built for trading strategy backtesting/validation with a node.js backend.   
+Most of whats here is my testing of verious technologies. This includeds, my porfolio (<a href="https://irawatt.co.uk/" target="_blank">irawatt.co.uk</a>) built in Angular 2 and my university project <a href="https://algo2k-9eddd.web.app" target="_blank">Algo2k</a>, a PWA (Progressive Web App) built for trading strategy backtesting/validation with a node.js backend.   
 
 <details>
 <summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
