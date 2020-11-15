@@ -6,7 +6,7 @@ Most of whats here is my tests into verious technologies. This includeds, my por
 <summary>Click and check my GitHub Stats dashboard  &#x1f4c8;</summary>
 <br>
 <a href="https://github.com/wisespira/wisespira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,javascript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=javascript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
