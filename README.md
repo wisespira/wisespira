@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Most of the work here is my testing of various technologies. Notable projects include my portfolio (irawatt.co.uk) built-in Angular 2 and my university project Algo2k, a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. Currently, I'm working on an ML project to model national electricity demand using the ESO and national weather datasets.
+Most of the work here is my testing of various technologies. Notable repositories include my portfolio (irawatt.co.uk) built-in Angular 2 and my university project Algo2k, a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. Currently, I'm working on an ML project to model national electricity demand using the ESO and national weather datasets.
 
 <details>
 <summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
