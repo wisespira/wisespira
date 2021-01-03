@@ -4,7 +4,7 @@ Most of the work here is my testing of various technologies. Artemis is my curre
 
 <h4>Other notable repositories include:</h4>
 
-My legacy portfolio (irawatt.co.uk) - built-in Angular 2 and my university project <br>
+My legacy portfolio (irawatt.co.uk) - built-in Angular 2<br>
 
 National-Demand-Model - used multilinear regression 
 alongside the National Grid ESO and scraped weather datasets.<br>
