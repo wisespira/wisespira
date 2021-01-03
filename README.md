@@ -3,7 +3,7 @@
 Most of the work here is my testing of various technologies. Artemis is my current project that aims to create abstract art using machine learning.
 <h3>Other repositories to look at: </h3>
 
-• My legacy portfolio (irawatt.co.uk) - built-in Angular 2
+• My legacy portfolio (irawatt.co.uk) - built in Angular 2.
 
 • National Demand Forcasting Model - used multilinear regression 
 alongside the National Grid ESO and scraped weather datasets.
