@@ -2,7 +2,7 @@
 <h4>What am I up to? </h4>
 Most of the work here is my testing of various technologies. Artemis is my current project that aims to create abstract art using machine learning. <br>
 
-<h4>Other repositories include: </h4>
+<h4>Other repositories to look at: </h4>
 
 • My legacy portfolio (irawatt.co.uk) - built-in Angular 2
 
