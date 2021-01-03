@@ -11,7 +11,7 @@ alongside the National Grid ESO and scraped weather datasets.
 • Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. <br><br>
 
 <h3>GitHub stats dashboard  &#x1f4c8;</h3>
-<br>
+
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,javascript,html&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
