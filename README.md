@@ -4,10 +4,10 @@ Most of the work here is my testing of various technologies. Artemis is my curre
 
 <h4>Other repositories include:</h4>
 
-• My legacy portfolio (irawatt.co.uk) - built-in Angular 2<br>
+• My legacy portfolio (irawatt.co.uk) - built-in Angular 2
 
 • National Demand Forcasting Model - used multilinear regression 
-alongside the National Grid ESO and scraped weather datasets.<br>
+alongside the National Grid ESO and scraped weather datasets.
 
 • Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. <br><br>
 
