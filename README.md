@@ -10,8 +10,7 @@ alongside the National Grid ESO and scraped weather datasets.
 
 • Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. <br><br>
 
-<details>
-<summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
+<h3>GitHub stats dashboard  &#x1f4c8;</h3>
 <br>
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,javascript,html&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -21,7 +20,6 @@ alongside the National Grid ESO and scraped weather datasets.
 </a>
 
 
-</details> 
 
 📫 Feel free to contact me
   • email: irawatt@gmail.com
@@ -30,6 +28,11 @@ alongside the National Grid ESO and scraped weather datasets.
 
 <!--
 **wisespira/wisespira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<details>
+<summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
+</details> 
+
 
 Here are some ideas to get you started:
 
