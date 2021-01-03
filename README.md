@@ -1,4 +1,4 @@
-<h2 align="center"> Hello there 👋 <h2>
+<h2 align="center"> Hello there 👋 </h2>
 
 Most of the work here is my testing of various technologies. Artemis is my current project that aims to create abstract art using machine learning. <br>
 
