@@ -1,6 +1,15 @@
 ### Hello there 👋
 
-Most of the work here is my testing of various technologies. Notable repositories include my legacy portfolio (irawatt.co.uk) built-in Angular 2 and my university project Algo2k, a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. Currently, I'm working on an ML project to model national electricity demand using the ESO and national weather datasets.
+Most of the work here is my testing of various technologies. Artemis is my current project that aims to create abstract art using machine learning. <br>
+
+Other notable repositories include:<br>
+
+My legacy portfolio (irawatt.co.uk) - built-in Angular 2 and my university project <br>
+
+National-Demand-Model - used multilinear regression <br>
+alongside the National Grid ESO and scraped weather datasets.<br>
+
+Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. 
 
 <details>
 <summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
