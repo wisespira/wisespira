@@ -6,7 +6,7 @@ Other notable repositories include:<br>
 
 My legacy portfolio (irawatt.co.uk) - built-in Angular 2 and my university project <br>
 
-National-Demand-Model - used multilinear regression <br>
+National-Demand-Model - used multilinear regression 
 alongside the National Grid ESO and scraped weather datasets.<br>
 
 Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. 
