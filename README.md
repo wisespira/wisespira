@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there 👋 </h1>
-
+<h4>What am I up to?</h4>
 Most of the work here is my testing of various technologies. Artemis is my current project that aims to create abstract art using machine learning. <br>
 
 <h4>Other repositories include:</h4>
