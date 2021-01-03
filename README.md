@@ -1,6 +1,14 @@
 <h1 align="center"> Hello there 👋 </h1>
-<h3>What am I up to? </h3>
+
 Most of the work here is my testing of various technologies. Artemis is my current project that aims to create abstract art using machine learning. 
+<h3>Other repositories to look at: </h3>
+
+• My legacy portfolio (irawatt.co.uk) - built in Angular 2.
+
+• National Demand Forcasting Model - used multilinear regression 
+alongside the National Grid ESO and scraped weather datasets.
+
+• Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. <br><br>
 
 
 <details>
@@ -22,7 +30,7 @@ Most of the work here is my testing of various technologies. Artemis is my curre
 
 <!--
 **wisespira/wisespira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h3>What am I up to? </h3>
 <details>
 <summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
 </details> 
