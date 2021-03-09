@@ -21,10 +21,10 @@ alongside the National Grid ESO and scraped weather datasets.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 </details> 
-<br>
+<br><br>
 I Also Post work on:<br>
   • Kaggle www.kaggle.com/irawatt
-<br>
+<br><br>
 Feel free to contact me: <br>
   • email: irawatt@gmail.com<br>
   • linkedin: https://www.linkedin.com/in/ira-watt/
