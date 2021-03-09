@@ -11,7 +11,7 @@ alongside the National Grid ESO and scraped weather datasets.
 • Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. <br><br>
 
 
-<details>
+
 <summary>GitHub stats</summary>
 <br>
 <a href="https://github.com/wisespira/wisespira">
@@ -20,7 +20,7 @@ alongside the National Grid ESO and scraped weather datasets.
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-</details> 
+
 <br>
 I also Post work on:<br>
   • Kaggle www.kaggle.com/irawatt 
@@ -45,6 +45,18 @@ Feel free to contact me: <br>
 alongside the National Grid ESO and scraped weather datasets.
 
 • Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. <br><br>
+
+<details>
+<summary>GitHub stats</summary>
+<br>
+<a href="https://github.com/wisespira/wisespira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,javascript,html,CSS&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/wisespira/wisespira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+</details> 
+<br>
 
 
 Here are some ideas to get you started:
