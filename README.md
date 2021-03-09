@@ -1,4 +1,5 @@
 <h1 align="center"> Hello there 👋 </h1>
+Most of the work here is my testing of various technologies.  
 <h3>Some of my repositories: </h3>
 
 • My legacy portfolio (irawatt.co.uk) - built in Angular 2.
@@ -34,7 +35,7 @@ Feel free to contact me: <br>
 <details>
 <summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
 </details> 
-Most of the work here is my testing of various technologies.  
+
 <h3>Other repositories to look at: </h3>
 
 • My legacy portfolio (irawatt.co.uk) - built in Angular 2.
