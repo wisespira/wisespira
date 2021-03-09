@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there 👋 </h1>
 Most of the work here is my testing of various technologies.  
-<h3>Some of my repositories: </h3>
+<h3>My more interesting repositories: </h3>
 
 • My legacy portfolio (irawatt.co.uk) - built in Angular 2.
 
