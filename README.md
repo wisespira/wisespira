@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there 👋 </h1>
 
-Most of the work here is my testing of various technologies. 
+Most of the work here is my testing of various technologies.  
 <h3>Some of my repositories: </h3>
 
 • My legacy portfolio (irawatt.co.uk) - built in Angular 2.
@@ -21,12 +21,14 @@ alongside the National Grid ESO and scraped weather datasets.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 </details> 
-
-
-📫 Feel free to contact me
-  • email: irawatt@gmail.com
+<br>
+  I Also Post work on:<br>
+  • Kagglehttps: //www.kaggle.com/irawatt
+<br>
+📫 Feel free to contact me: <br>
+  • email: irawatt@gmail.com<br>
   • linkedin: https://www.linkedin.com/in/ira-watt/
-
+  
 
 <!--
 **wisespira/wisespira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
