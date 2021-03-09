@@ -12,7 +12,7 @@ alongside the National Grid ESO and scraped weather datasets.
 
 
 <details>
-<summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
+<summary>Click and check my GitHub stats dashboard</summary>
 
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,javascript,html,CSS&langs_count=7&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
