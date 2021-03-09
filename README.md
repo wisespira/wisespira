@@ -22,10 +22,10 @@ alongside the National Grid ESO and scraped weather datasets.
 </a>
 </details> 
 <br>
-  I Also Post work on:<br>
-  • Kagglehttps: //www.kaggle.com/irawatt
+I Also Post work on:<br>
+  • Kaggle www.kaggle.com/irawatt
 <br>
-📫 Feel free to contact me: <br>
+Feel free to contact me: <br>
   • email: irawatt@gmail.com<br>
   • linkedin: https://www.linkedin.com/in/ira-watt/
   
