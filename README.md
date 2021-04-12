@@ -4,12 +4,9 @@ Most of the work here is my testing of various technologies.
 
 • My legacy portfolio (irawatt.co.uk) - built in Angular 2.
 
+• Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. <br><br>
 • National Demand Forcasting Model - used multilinear regression 
 alongside the National Grid ESO and scraped weather datasets.
-
-• Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend. <br><br>
-
-
 
 <h3>GitHub stats</h3>
 <br>
