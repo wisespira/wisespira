@@ -5,9 +5,6 @@
 
 • Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend.
 
-• National Demand Forcasting Model - used multilinear regression 
-alongside the National Grid ESO and scraped weather datasets.
-
 <h3>GitHub stats</h3>
 <br>
 <a href="https://github.com/wisespira/wisespira">
