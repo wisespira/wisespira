@@ -10,9 +10,6 @@
 <a href="https://github.com/wisespira/wisespira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisespira&hide=java,javascript,html,CSS&langs_count=7" />
 </a>
-<a href="https://github.com/wisespira/wisespira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true" alt="Martin's GitHub Stats" />
-</a>
 <h3>Links</h3>
 
 I also Post work on:<br>
@@ -29,7 +26,9 @@ Feel free to contact me: <br>
 <details>
 <summary>Click and check my GitHub stats dashboard  &#x1f4c8;</summary>
 </details> 
-
+<a href="https://github.com/wisespira/wisespira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisespira&show_icons=true&line_height=27&count_private=true" alt="Martin's GitHub Stats" />
+</a>
 <h3>Other repositories to look at: </h3>
 
 • My legacy portfolio (irawatt.co.uk) - built in Angular 2.
