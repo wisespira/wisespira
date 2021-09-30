@@ -1,7 +1,7 @@
 <h1 align="center"> Hello there 👋 </h1>
 <h3>My more interesting repositories: </h3>
 
-• My legacy portfolio (irawatt.co.uk) - built in Angular 2.
+• My legacy portfolio (https://analitics-f8064.web.app/) - built in Angular 2.
 
 • Algo2k - a PWA (Progressive Web App) built for stock trading strategy backtesting/validation with a node.js backend.
 
